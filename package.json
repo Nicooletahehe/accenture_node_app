@@ -6,7 +6,11 @@
   "author": "Mitanshu Patel <mitanshu.u.patel@gmail.com>",
   "license": "MIT",
   "scripts": {
+<<<<<<< HEAD
     "start": "node server.js"
+=======
+    "start": "nodemon server.js"
+>>>>>>> 7457e0db15c839124d4e1c2ec5c61fc887874de8
   },
   "dependencies": {
     "config": "^3.3.6",
